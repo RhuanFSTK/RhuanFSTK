@@ -1,6 +1,6 @@
 Olá, sou Rhuan Cesar !
 
-📚 Atualmente estudando: FullStack
+📚 Atualmente em curso - FullStack
 
 <div align="flex">
     <a href="https://github.com/RhuanFSTK">
