@@ -4,8 +4,8 @@ Olá, sou Rhuan Cesar !
 
 <div align="flex">
     <a href="https://github.com/RhuanFSTK">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RhuanFSTK&show_icons=show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanFSTK&layout=show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RhuanFSTK&show_icons=show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanFSTK&layout=show_icons=true&theme=tokyonight"/>
 </div>
 
 ##    
