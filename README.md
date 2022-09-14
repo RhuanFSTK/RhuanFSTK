@@ -1,12 +1,13 @@
-<h1 align="center">
-	<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" width="150"> my name is Rhuan<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="60">
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="60"><h1 align="center">
+	 My name is Rhuan
 </h1>
 <h3 align="center">I am a student of programming Fullstack </h3>
 <div style="display: inline_block;" align="center">
 	
 |  **** | **** |
 | :---------        |     :---------  |
-| **I’m currently learning** |  **Express**, **React**, **Mysql**, **Api**, **Python** => **Digital House** + **Curso em video** + **Udemy** |
+| **Completed modules** | **Nodejs**, **Javascript**, **Http**, **Express**, **Html**, **Css**|
+| **I’m currently learning** | **React**, **Mysql**, **Api**, **Python** => **Digital House** + **Curso em video** + **Udemy** |
 |**My certificates** |  [https://drive.google.com/drive/folders/1uawAAexOjKO2-ngSgTQRE3dC23-mQtXd?usp=sharing](https://drive.google.com/drive/folders/1uawAAexOjKO2-ngSgTQRE3dC23-mQtXd?usp=sharing)|
 |**How to reach me** | **Rhuanfullstack@gmail.com** |
 |**My HackerRank** | coming soon |
