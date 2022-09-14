@@ -1,8 +1,20 @@
-Olá, sou Rhuan Cesar !
+<h1 align="center">
+	<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" width="150"> my name is Rhuan<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="60">
+</h1>
+<h3 align="center">I am a student of programming Fullstack </h3>
+<div style="display: inline_block;" align="center">
+	
+|  **** | **** |
+| :---------        |     :---------  |
+| **I’m currently learning** |  **Express**, **React**, **Mysql**, **Api**, **Python** => **Digital House** + **Curso em video** + **Udemy** |
+|**My certificates** |  [https://drive.google.com/drive/folders/1uawAAexOjKO2-ngSgTQRE3dC23-mQtXd?usp=sharing](https://drive.google.com/drive/folders/1uawAAexOjKO2-ngSgTQRE3dC23-mQtXd?usp=sharing)|
+|**How to reach me** | **Rhuanfullstack@gmail.com** |
+|**My HackerRank** | coming soon |
+|**My TryHackMe** | coming soon |
+	
+</div>
 
-📚 Atualmente em curso - FullStack
-
-<div align="flex">
+<div align="center">
     <a href="https://github.com/RhuanFSTK">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RhuanFSTK&show_icons=show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanFSTK&layout=show_icons=true&theme=tokyonight"/>
