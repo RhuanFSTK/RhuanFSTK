@@ -8,10 +8,10 @@
 | :---------        |     :---------  |
 | **Completed modules** | **Nodejs**, **Javascript**, **Http**, **Express**, **Html**, **Css**|
 | **I’m currently learning** | **React**, **Mysql**, **Api**, **Python** => **Digital House** + **Curso em video** + **Udemy** |
-|**My certificates** | starting the collection |
+|**My certificates** | Starting the collection |
 |**How to reach me** | **Rhuanfullstack@gmail.com** |
-|**My HackerRank** | coming soon |
-|**My TryHackMe** | coming soon |
+|**My HackerRank** | Coming soon |
+|**My TryHackMe** | Coming soon |
 	
 </div>
 
