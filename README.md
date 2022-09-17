@@ -8,7 +8,7 @@
 | :---------        |     :---------  |
 | **Completed modules** | **Nodejs**, **Javascript**, **Http**, **Express**, **Html**, **Css**|
 | **I’m currently learning** | **React**, **Mysql**, **Api**, **Python** => **Digital House** + **Curso em video** + **Udemy** |
-|**My certificates** |  Começando a coleção |
+|**My certificates** | starting the collection |
 |**How to reach me** | **Rhuanfullstack@gmail.com** |
 |**My HackerRank** | coming soon |
 |**My TryHackMe** | coming soon |
