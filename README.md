@@ -8,7 +8,7 @@
 | :---------        |     :---------  |
 | **Completed modules** | **Nodejs**, **Javascript**, **Http**, **Express**, **Html**, **Css**|
 | **I’m currently learning** | **React**, **Mysql**, **Api**, **Bootstrap**, **Vuejs**, **Jquery**, **Angular**, **Python** => **Digital House** + **Curso em video** + **Udemy** |
-|**My certificates** | [Drive](https://drive.google.com/drive/folders/1uawAAexOjKO2-ngSgTQRE3dC23-mQtXd) |
+|**My certificates** | [**Drive**](https://drive.google.com/drive/folders/1uawAAexOjKO2-ngSgTQRE3dC23-mQtXd) |
 |**How to reach me** | **Rhuanfullstack@gmail.com** |
 |**My HackerRank** | Coming soon |
 |**My TryHackMe** | Coming soon |
