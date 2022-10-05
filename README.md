@@ -6,8 +6,8 @@
 	
 |  **** | **** |
 | :---------        |     :---------  |
-| **Completed modules** | **Nodejs**, **Javascript**, **Http**, **Express**, **Html**, **Css**|
-| **I’m currently learning** | **React**, **Mysql**, **Api**, **Bootstrap**, **Vuejs**, **Jquery**, **Angular**, **Python** => **Digital House** + **Curso em video** + **Udemy** |
+| **Completed modules** | **Nodejs**, **Javascript**, **Http**, **Express**, **Html**, **Css**, **Python basic.**|
+| **I’m currently learning** | **Digital House - .ejs(MVC)** / **Udemy C# - module 1** / **Udemy Inglês - module 1** |
 |**My certificates** | [**Drive**](https://drive.google.com/drive/folders/1uawAAexOjKO2-ngSgTQRE3dC23-mQtXd) |
 |**How to reach me** | **Rhuanfullstack@gmail.com** |
 |**My HackerRank** | Coming soon |
