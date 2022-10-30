@@ -4,7 +4,7 @@
 <h3 align="center">I am a student of programming Fullstack </h3>
 <div style="display: inline_block;" align="center">
 	
-|  **** | **** |
+|  **🔭 I’m currently working on** | **Anestesia Carioca** |
 | :---------        |     :---------  |
 | **Completed modules** | **Nodejs**, **Javascript**, **Http**, **Express**, **Html**, **Css**, **Python basic.**|
 | **I’m currently learning** | **Digital House - .ejs(MVC)** / **Udemy C# - module 1** / **Udemy Inglês - module 1** |
