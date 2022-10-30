@@ -10,8 +10,7 @@
 | **I’m currently learning** | **Digital House - Mysql** / **web modern - module 3** / **Udemy Inglês - module 1** |
 |**My certificates** | [**Drive**](https://drive.google.com/drive/folders/1uawAAexOjKO2-ngSgTQRE3dC23-mQtXd) |
 |**How to reach me** | **Rhuanfullstack@gmail.com** |
-|**My HackerRank** | Coming soon |
-|**My TryHackMe** | Coming soon |
+
 	
 </div>
 
