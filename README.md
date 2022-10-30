@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="60"><h1 align="center">
 	 My name is Rhuan
 </h1>
-<h3 align="center">I am a student of programming Fullstack </h3>
+<h3 align="center">I'm an eternal programming student</h3>
 <div style="display: inline_block;" align="center">
 	
 |  **🔭 I’m currently working on** | **Anestesia Carioca** |
