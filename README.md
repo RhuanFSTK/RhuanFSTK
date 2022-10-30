@@ -6,8 +6,10 @@
 	
 |  **🔭 I’m currently working on** | **Anestesia Carioca** |
 | :---------        |     :---------  |
-| **Completed modules** | **Nodejs**, **Javascript**, **Express**, **Html**, **Css**, **Mysql**, **React**|
-| **I’m currently learning** |**Web modern - module 3** / **Udemy Inglês - module 1** |
+| **Completed modules** | **Nodejs**, **Javascript**, **Express**, **Html**, **Css**|
+| **Current module** | **Mysql** |
+| **Following module** | **API**, **React** |
+| **I’m currently learning** |**Digital House** / **Web modern - module 3** / **Udemy Inglês - module 1** |
 |**My certificates** | [**Drive**](https://drive.google.com/drive/folders/1uawAAexOjKO2-ngSgTQRE3dC23-mQtXd) |
 |**How to reach me** | **Rhuanfullstack@gmail.com** |
 
