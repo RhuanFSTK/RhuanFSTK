@@ -9,7 +9,7 @@
 | **Completed modules** | **Nodejs**, **Javascript**, **Express**, **Html**, **Css**|
 | **Current module** | **Mysql** |
 | **Following module** | **API**, **React** |
-| **I’m currently learning** |**Udemy Inglês (1)** / **Digital House (8/10)** / **Udemy - Web moderno (5/39)** / ** Udemy - React Native(48/63)|
+| **I’m currently learning** |**Udemy Inglês (1)** / **Digital House (8/10)** / **Udemy - Web moderno (5/39)** / **Udemy - React Native(48/63)**|
 |**My certificates** | [**Drive**](https://drive.google.com/drive/folders/1uawAAexOjKO2-ngSgTQRE3dC23-mQtXd) |
 |**How to reach me** | **Rhuanfullstack@gmail.com** |
 
