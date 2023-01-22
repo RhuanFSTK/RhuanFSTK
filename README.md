@@ -6,10 +6,9 @@
 	
 |  **🔭 I’m currently working on** | **Anestesia Carioca** |
 | :---------        |     :---------  |
-| **Completed modules** | **Nodejs**, **Javascript**, **Express**, **Html**, **Css**, **MySQL**|
-| **Current module** | **React** |
-| **Following module** | **API**, **React** |
-| **I’m currently learning** |**Udemy Inglês (1)** / **Digital House (8/10)** / **Udemy - Web moderno (5/39)** / **Udemy - React Native(3/12)**|
+| **Completed modules** | **Nodejs**, **Javascript**, **Express**, **Html**, **Css**, **MySQL**, **API**|
+| **Current module** | **Fullsstack - React** |
+| **I’m currently learning** | **Fullstack (9/10)** / **PHP Orientado a Objeto (1/10)** / **React Native(3/12)**|
 |**My certificates** | [**Drive**](https://drive.google.com/drive/folders/1uawAAexOjKO2-ngSgTQRE3dC23-mQtXd) |
 |**How to reach me** | **Rhuanfullstack@gmail.com** |
 
