@@ -4,7 +4,7 @@
 <h3 align="center">I'm an eternal programming student</h3>
 <div style="display: inline_block;" align="center">
 	
-|  **🔭 I’m currently working on** | **Anestesia Carioca** |
+|  **I’m currently working on** | **Anestesia Carioca** |
 | :---------        |     :---------  |
 | **Completed modules** | ** **|
 | **Current module** | **Para quem entede de PHP** |
