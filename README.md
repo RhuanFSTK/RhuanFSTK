@@ -6,7 +6,6 @@
 	
 |  **I’m currently working on** | **Anestesia Carioca** |
 | :---------        |     :---------  |
-| **Completed modules** | ** **|
 | **Current module** | **PHP Profissional** |
 | **I’m currently learning** | **PHP Fullstack (3/42)**|
 |**My certificates** | [**Drive**](https://drive.google.com/drive/folders/1uawAAexOjKO2-ngSgTQRE3dC23-mQtXd) |
@@ -34,11 +33,11 @@
     
 ##    
 <div style="display: inline_block"><br>
-<details>
-	<summary>Languages / Hard skills</summary>
+  <div>
+      <summary>Languages / Hard skills</summary>
+	 <img align="center" alt="PHP" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 	<img align="center" alt="Node" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 	<img align="center" alt="Js" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img align="center" alt="PHP" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 	<img align="center" alt="HTML5" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img align="center" alt="CSS3" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	<img align="center" alt="React" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -49,7 +48,7 @@
 	<img align="center" alt="Slack" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
 	<img align="center" alt="Trello" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
 	<img align="center" alt="VsCode" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">	
-</details>
+  </div>
 </div>
 	
 
