@@ -7,7 +7,7 @@
 |  **I’m currently working on** | **Anestesia Carioca** |
 | :---------        |     :---------  |
 | **Completed modules** | ** **|
-| **Current module** | **Para quem entede de PHP** |
+| **Current module** | **PHP Pro** |
 | **I’m currently learning** | **PHP Fullstack (1/42)** / **React Native(3/12)**|
 |**My certificates** | [**Drive**](https://drive.google.com/drive/folders/1uawAAexOjKO2-ngSgTQRE3dC23-mQtXd) |
 |**How to reach me** | **Rhuanfullstack@gmail.com** |
