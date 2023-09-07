@@ -1,19 +1,19 @@
 <h1 align="center">My name is Rhuan</h1>
 <h3 align="center">I'm an eternal programming student</h3>
-<div style="display: inline_block;" align="center">	
-	|  **I’m currently working on** | **Anestesia Carioca** |
-	| :---------        |     :---------  |
-	| **Current module** | **PHP Profissional** |
-	| **I’m currently learning** | **PHP Fullstack (3/42)**|
-	|**My certificates** | [**Drive**](https://drive.google.com/drive/folders/1uawAAexOjKO2-ngSgTQRE3dC23-mQtXd) |
-	|**How to reach me** | **Rhuanfullstack@gmail.com** |
-</div><br>
+<div style="display: inline_block;" align="center">
+	
+|  **🔭 I’m currently working on** | **Anestesia Carioca** |
+| :---------        |     :---------  |
+| **I’m currently learning** | **PHP Fullstack (71/703)**|
+|**My certificates** | [**Drive**](https://drive.google.com/drive/folders/1uawAAexOjKO2-ngSgTQRE3dC23-mQtXd) |
+|**How to reach me** | **Rhuanfullstack@gmail.com** |
+	
+</div>
 <div align="center">
     	<a href="https://github.com/RhuanFSTK">
     	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RhuanFSTK&show_icons=show_icons=true&theme=tokyonight"/>
 </div><br>
 <div>
-    	<img align="center" alt="Mac" height="30" width="100" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
     	<img align="center" alt="IOS" height="30" width="100" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
     	<img align="center" alt="Android-Js" height="30" width="100" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
     	<img align="center" alt="Windows" height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
