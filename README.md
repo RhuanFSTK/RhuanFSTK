@@ -13,8 +13,7 @@
     	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RhuanFSTK&show_icons=show_icons=true&theme=tokyonight"/>
 </div> -->
 <div>
-    	<img align="center" alt="IOS" height="30" width="100" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-<!--     	<img align="center" alt="Android-Js" height="30" width="100" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> -->
+    	<img align="center" alt="Linux" height="30" width="100" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     	<img align="center" alt="Windows" height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div style="display: flex">
 <div style="display:inline_block"><br>
