@@ -3,7 +3,7 @@
 	
 |  **🔭 I’m currently working on** | **Anestesia Carioca** |
 | :---------        |     :---------  |
-| **I’m currently learning** | **Analise de desenvolvimento de sistema - CUCL** / **Bootcamp CiberSegurança - DIO** |
+| **I’m currently learning** | **Analise de desenvolvimento de sistema - CUCL** / **Santander Bootcamp Cibersegurança - DIO** |
 |**My certificates** | [**Drive**](https://drive.google.com/drive/folders/1uawAAexOjKO2-ngSgTQRE3dC23-mQtXd) |
 |**How to reach me** | **Rhuanfullstack@gmail.com** |
 	
