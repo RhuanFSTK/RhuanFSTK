@@ -39,12 +39,12 @@
 	        <img align="center" alt="Composer" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
 		<img align="center" alt="Node" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 		<img align="center" alt="Mysql" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+		<img align="center" alt="VsCode" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">	
 		<img align="center" alt="Git" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+		<img align="center" alt="Postman" height="30" width="70" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-thebadge&logo=Postman&logoColor=white">
 		<img align="center" alt="GitHub" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
 		<img align="center" alt="Slack" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
 		<img align="center" alt="Trello" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
-		<img align="center" alt="VsCode" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">	
-		<img align="center" alt="VsCode" height="30" width="70" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-thebadge&logo=Postman&logoColor=white">
         </div>
       </div><br>
     </td>
