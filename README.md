@@ -44,6 +44,7 @@
 		<img align="center" alt="Slack" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
 		<img align="center" alt="Trello" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
 		<img align="center" alt="VsCode" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">	
+		<img align="center" alt="VsCode" height="30" width="70" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-thebadge&logo=Postman&logoColor=white">
         </div>
       </div><br>
     </td>
