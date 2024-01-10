@@ -7,9 +7,10 @@
   <tr>
     <td align="center">
 	
-|  **🔭 I’m currently working on** | **Anestesia Carioca** |
+|  **I’m currently working on** | **Anestesia Carioca** |
 | :---------        |     :---------  |
-| **I’m currently learning** | **Analise de desenvolvimento de sistema - CUCL** / **PHP fullstack - Udemy** |
+| **I’m currently learning** | **Analise e desenvolvimento de sistema - CUCL** / **PHP fullstack ( 158/703 ) - Udemy** |
+| **Language learning** | **Inglês - DevSpeack Academy** |
 |**My certificates** | [**Drive**](https://drive.google.com/drive/folders/1uawAAexOjKO2-ngSgTQRE3dC23-mQtXd) |
 |**How to reach me** | **Rhuanfullstack@gmail.com** |
 	
