@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td align="center">
-      <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a693&height=180&section=header&text=Rhuan+Fullstack+(Backend+and+CyberSecurity)&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+      <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a693&height=180&section=header&text=Rhuan+Fullstack+(+Backend+)&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
     </td>
   </tr>
   <tr>
